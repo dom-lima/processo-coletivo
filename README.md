@@ -2,7 +2,7 @@
 
 *Estudo jurisprudencial do Supremo Tribunal Federal e do Superior Tribunal de Justiça sobre o processo coletivo e as três ações constitucionais de tutela coletiva.*
 
-Processo coletivo e suas principais ações: ação civil pública, ação popular e mandado de segurança coletivo. Estudo jurisprudencial do STF e do STJ, com a legislação anotada. CC BY 4.0.
+Processo coletivo e suas principais ações: ação civil pública, ação popular e mandado de segurança coletivo. Estudo jurisprudencial do STF e do STJ, com a legislação anotada e os atos do CNJ sobre gestão de processos coletivos. CC BY 4.0.
 
 **Autor:** Domingos José de Souza Lima Júnior
 **Data:** Realizado em 2 de novembro de 2026
